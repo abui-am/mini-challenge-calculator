@@ -12,4 +12,9 @@ Buatlah simple calculator dengan fitur berikut:
 5. Ketika user memasukan sembarang angka, contoh `-+/*2313`  dan terjadi `error`, maka tampilkan  `Error, coba lagi.` pada `TextField` dan reset `Text Field` setelah 2 detik.
 
 #### Tips
+Pengumpulan:
+1. Kumpulkan di google classroom dengan mencantumkan link github repo kalian sendiri (tidak usah fork repo ini)
+
+#### Tips
 Ada function Javascript yang digunakan untuk mengkalkulasi rumus matematis yang diberikan, coba baca baca tentang `eval`
+
