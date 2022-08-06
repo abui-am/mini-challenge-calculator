@@ -11,8 +11,7 @@ Buatlah simple calculator dengan fitur berikut:
 4. Ketika button `=` dipencet dan hasil  menghasilkan NaN, maka tampilkan `NaN, coba lagi.` pada `Text Field` dan reset `Text Field` setelah 2 detik.
 5. Ketika user memasukan sembarang angka, contoh `-+/*2313`  dan terjadi `error`, maka tampilkan  `Error, coba lagi.` pada `TextField` dan reset `Text Field` setelah 2 detik.
 
-#### Tips
-Pengumpulan:
+#### Pengumpulan
 1. Kumpulkan di google classroom dengan mencantumkan link github repo kalian sendiri (tidak usah fork repo ini)
 
 #### Tips
